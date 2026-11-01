@@ -1,0 +1,27 @@
+# dependencies
+node_modules/
+
+# env
+.env
+.env.*
+!.env.example
+
+# os
+.DS_Store
+
+# build output
+dist/
+.next/
+out/
+build/
+.turbo/
+.vercel/
+.output/
+.nuxt/
+.svelte-kit/
+.cache/
+.parcel-cache/
+.vite/
+coverage/
+*.tsbuildinfo
+*.log
