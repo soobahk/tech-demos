@@ -6,3 +6,4 @@ The index below lists every demo. It starts empty.
 
 | slug | tech | date | source post |
 | --- | --- | --- | --- |
+| hindsight-memory-lab | Hindsight (Vectorize agent memory) | 2026-11-02 | https://x.com/HermesWatcher/status/2114492238659305561 |
